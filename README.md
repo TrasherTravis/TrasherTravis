@@ -7,14 +7,14 @@ I'm a Fullstack developer, code in Nodejs, Reactjs, Angularjs, Nextjs, TypeScrip
 Most of my past works are based on Dapps,DeFi, DAO, DEX...and I love to work more related to crypto.
 
 **Dapps:**
-Socksy: https://socksy-dev.web.app/
-Token Locker: https://kulock.netlify.app/
-Pyragon (Dividends): https://competent-mayer-80ad35.netlify.app/
-StripCoin Presale: https://strip-presale-chi.vercel.app/
-Crypto Games (UI)
-BetDice: https://betdice.netlify.app/
-DiceWin: https://demo-dicewin.netlify.app/index.html
-NFT: https://empress.netlify.app/
+1. Socksy: https://socksy-dev.web.app/
+2. Token Locker: https://kulock.netlify.app/
+3. Pyragon (Dividends): https://competent-mayer-80ad35.netlify.app/
+4. StripCoin Presale: https://strip-presale-chi.vercel.app/
+5. Crypto Games (UI)
+6. BetDice: https://betdice.netlify.app/
+7. DiceWin: https://demo-dicewin.netlify.app/index.html
+8. NFT: https://empress.netlify.app/
 
 **Business Websites**
 1. Leash Coin: https://leashcrypto.tech/
