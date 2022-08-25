@@ -17,7 +17,7 @@ Most of my past works are based on Dapps,DeFi, DAO, DEX...and I love to work mor
 8. NFT: https://empress.netlify.app/
 
 **Business Websites**
-1. Leash Coin: https://leashcrypto.tech/
+1. Leash Coin: https://leashcoin.netlify.app/
 2. Portico: https://portico-web.netlify.app/
 
 **DeFi Apps**
