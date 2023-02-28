@@ -10,7 +10,6 @@ Most of my past works are based on Dapps,DeFi, DAO, DEX...and I love to work mor
 1. Socksy: https://socksy-dev.web.app/
 2. Token Locker: https://kulock.netlify.app/
 3. Pyragon (Dividends): https://competent-mayer-80ad35.netlify.app/
-4. StripCoin Presale: https://strip-presale-chi.vercel.app/
 
 Crypto Games (UI)
 1. BetDice: https://betdice.netlify.app/
