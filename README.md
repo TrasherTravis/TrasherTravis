@@ -6,6 +6,14 @@ I'm a Fullstack developer, code in Nodejs, Reactjs, Angularjs, Nextjs, TypeScrip
 
 Most of my past works are based on Dapps,DeFi, DAO, DEX...and I love to work more related to crypto.
 
+**Telegram Bots**
+1. Uniswap Sniping Bot
+2. FreshWallet Detector
+3. Snipe Detector
+
+![image](https://github.com/TrasherTravis/TrasherTravis/assets/69963432/a590af67-496d-4f4c-91c8-d9db366c7e9b)
+![image](https://github.com/TrasherTravis/TrasherTravis/assets/69963432/5af1646e-4850-4c4b-9b3a-d468cc61b0e1)
+
 **Dapps:**
 1. Socksy: https://socksy-dev.web.app/
 2. Token Locker: https://kulock.netlify.app/
@@ -24,13 +32,7 @@ Crypto Games (UI)
 **DeFi Apps**
 1. VIVA:https://viva-testrun.netlify.app/
 2. Xiasi: https://xiasi-main-dev.netlify.app | Swap: https://xiasi-swap-dev.netlify.app
-3. MilkyWaySwap: https://milkywayswap.netlify.app
-4. EggPlant: http://eggplant.fi/
-5. MarioSwap: https://marioswap.netlify.app/
-6. DeFi with Dividend: https://dogeback.space/
-7. Nectar-Swap: https://nectarswap.finance
-8. Symmetry: https://symmetry-markets.netlify.app/
-9. DrivenX: https://drivenx-main.netlify.app/
+3. DrivenX: https://drivenx-main.netlify.app/
 
 
 You can reach me directly for further discussion via Discord: Travis#9295 |  TG: Travis_BZ
