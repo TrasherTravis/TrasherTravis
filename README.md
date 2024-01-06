@@ -37,7 +37,7 @@ Crypto Games (UI)
 4. Any clone projects
 
 
-You can reach me directly for further discussion via TG: Travis_BZ  | Discord: travisgreg
+You can reach me directly for further discussion via TG: Travis_BZ  | Discord: travisgreg (⚠️ I don't communicate other than these accounts)
 
 - Travis
 
