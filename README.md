@@ -6,6 +6,8 @@ I'm a Fullstack developer, who can help you with Nodejs, Reactjs, Angularjs, Nex
 
 Most of my past works are based on Dapps, DeFi, DAO, DEX...and I love to work more related to crypto.
 
+My Rates: $18/hr to $25/hr (depends on the requirement)
+
 **Telegram Bots**
 1. Sniping Bot (EVM/Solana)
 2. Trading Bot (Manual and Auto Buy and sell)
