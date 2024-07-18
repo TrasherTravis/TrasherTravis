@@ -21,7 +21,7 @@ My Rates: $18/hr to $25/hr (depends on the requirement)
 ![Screenshot from 2024-07-05 08-51-52](https://github.com/TrasherTravis/TrasherTravis/assets/69963432/f4ee4ac9-49f3-4afa-8775-4229d4780e1b)
 
 
-**Price Impact Bot** - To execute transaction with high volume is splitted into small chunks of transaction and executed consequently.
+**Volume Bot** - To execute transaction with high volume is splitted into small chunks of transaction and executed consequently.
 
    ![image](https://github.com/TrasherTravis/TrasherTravis/assets/69963432/7b76b97e-f6bf-4804-80e2-b74613f7c8d1)
 
