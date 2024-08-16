@@ -8,7 +8,7 @@ Most of my past works are based on Dapps, DeFi, DAO, DEX...and I love to work mo
 
 My Rates: $18/hr to $25/hr (depends on the requirement)
 
-**Telegram Bots** [DEMO](https://drive.google.com/drive/folders/1iDwVjJkbFJnldSrx2Tz3sb8NT8xTPZMM?usp=sharing)
+**Telegram Bots** [CHECK DEMO VIDEOS](https://drive.google.com/drive/folders/1iDwVjJkbFJnldSrx2Tz3sb8NT8xTPZMM?usp=sharing)
 1. Sniping Bot (EVM/Solana)
 2. Trading Bot (Manual and Auto Buy and sell)
 3. Customer Support Bot (Customer to Support Agent anonymous chat, adding tier1 agent to the chat, admin to view reports and chat history)
