@@ -26,7 +26,7 @@ My Rates: $18/hr to $25/hr (depends on the requirement)
    ![image](https://github.com/TrasherTravis/TrasherTravis/assets/69963432/7b76b97e-f6bf-4804-80e2-b74613f7c8d1)
 
 
-You can reach me directly for further discussion via TG: Travis_BZ  | Discord: travisgreg (⚠️ I don't communicate other than these accounts)
+You can reach me directly at botcrafts.ai@gmail.com
 
 - Travis
 
